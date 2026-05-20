@@ -1,15 +1,15 @@
 <!-- TOP BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:111827,50:1e3a8a,75:2563eb,100:60a5fa&height=180&section=header&text=Sagar%20Kotai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20AI%20Systems%20Engineer&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,25:111827,50:1f2937,75:1e40af,100:3b82f6&height=190&section=header&text=Sagar%20Kotai&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20|%20AI%20Systems%20Engineer&descAlignY=58"/>
 
 <div align="center">
 
 <!-- GLITCH TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hey+%F0%9F%91%8B+I'm+Sagar+Kotai;Building+Production-Grade+AI+Systems;Full-Stack+Engineer+%7C+SaaS+Architect;Multi-Agent+AI+%7C+Offline-First+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=700&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=105&lines=Hey%2C+I%27m+Sagar+Kotai;Building+production-grade+AI+systems;Full-stack+engineer+%7C+SaaS+architect;Multi-agent+AI+%7C+Offline-first+apps" />
 
 <br/>
 
 <!-- MATRIX LINE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=25&lines=MERN+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+RAG+%E2%80%A2+Redis+%E2%80%A2+Docker" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=720&height=26&lines=MERN+|+FastAPI+|+LangGraph+|+RAG+|+Redis+|+Docker" />
 
 <br/><br/>
 
@@ -40,47 +40,30 @@
 
 ```ts
 const sagar = {
-    role: "Full-Stack & AI Systems Engineer",
+    role: "Full-Stack and AI Systems Engineer",
 
-    location: "Udaipur, Rajasthan 🇮🇳",
+    location: "Udaipur, Rajasthan, India",
 
     focus: [
-        "AI Systems",
-        "Multi-Agent Workflows",
-        "Offline-First SaaS",
-        "Real-Time Architectures"
+        "AI systems",
+        "Multi-agent workflows",
+        "Offline-first SaaS",
+        "Real-time architectures"
     ],
 
     currently_building: [
         "Production AI SaaS",
-        "LangGraph Agents",
-        "Scalable Backend Systems"
+        "LangGraph agents",
+        "Scalable backend systems"
     ],
 
     tech_stack: {
-        frontend: [
-            "React",
-            "Next.js",
-            "TypeScript"
-        ],
-
-        backend: [
-            "Node.js",
-            "FastAPI",
-            "MongoDB",
-            "Redis"
-        ],
-
-        ai: [
-            "LangChain",
-            "LangGraph",
-            "RAG",
-            "LLMs"
-        ]
+        frontend: ["React", "Next.js", "TypeScript"],
+        backend: ["Node.js", "FastAPI", "MongoDB", "Redis"],
+        ai: ["LangChain", "LangGraph", "RAG", "LLMs"]
     },
 
-    philosophy:
-        "Build systems that survive real-world scale."
+    philosophy: "Build systems that survive real-world scale."
 };
 ```
 
@@ -88,23 +71,23 @@ const sagar = {
 
 ---
 
-# ⚡ Tech Arsenal
+# Tech Arsenal
 
 <div align="center">
 
-### 🧠 AI / ML
+### AI and ML
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow"/>
 
 <br/>
 
-### 🌐 Full Stack
+### Full Stack
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,redux,express"/>
 
 <br/>
 
-### ⚙️ Database / Infra
+### Database and Infra
 
 <img src="https://skillicons.dev/icons?i=mongodb,redis,docker,git,linux"/>
 
@@ -112,7 +95,7 @@ const sagar = {
 
 ---
 
-# 🚀 Featured Projects
+# Signature Builds
 
 <div align="center">
 
@@ -120,9 +103,9 @@ const sagar = {
 <tr>
 <td width="50%">
 
-## 🍽️ SwadSync
+## SwadSync
 
-### Offline-First Restaurant POS SaaS
+### Offline-first Restaurant POS SaaS
 
 ```bash
 > Real businesses.
@@ -130,20 +113,20 @@ const sagar = {
 > Real-world scale.
 ```
 
-### ⚡ Features
+### Features
 
 - LAN real-time sync
-- Offline `.exe` + Cloud PWA
+- Offline .exe + Cloud PWA
 - WhatsApp bill delivery
 - Razorpay SaaS billing
 - Multi-device synchronization
 
-### 🛠 Stack
+### Stack
 
 `React` `Node.js` `MongoDB`
 `Electron` `Redis` `Socket.IO`
 
-### 🔗 Links
+### Links
 
 [Website](https://www.swadsync.in)
 
@@ -151,28 +134,28 @@ const sagar = {
 
 <td width="50%">
 
-## 🤖 LeadForge
+## LeadForge
 
-### Multi-Agent AI Lead Intelligence System
+### Multi-agent AI Lead Intelligence System
 
 ```bash
 > AI agents reasoning over lead pipelines.
 ```
 
-### ⚡ Features
+### Features
 
-- 5-Agent LangGraph workflow
+- 5-agent LangGraph workflow
 - AI lead scoring
 - Personalized outreach generation
 - FastAPI AI layer
 - SaaS analytics dashboard
 
-### 🛠 Stack
+### Stack
 
 `Python` `FastAPI`
 `LangGraph` `React`
 
-### 🔗 Links
+### Links
 
 [GitHub](https://github.com/SagarKotai/LeadForge)
 
@@ -182,27 +165,27 @@ const sagar = {
 <tr>
 <td width="50%">
 
-## 🏠 PropRadar
+## PropRadar
 
 ### AI Real Estate Intelligence Platform
 
 ```bash
-> Deterministic scoring + AI reasoning.
+> Deterministic scoring plus AI reasoning.
 ```
 
-### ⚡ Features
+### Features
 
 - Multi-signal scoring engine
 - AI-powered property analysis
 - LangGraph agent pipeline
 - India-focused real estate insights
 
-### 🛠 Stack
+### Stack
 
 `FastAPI` `Node.js`
 `React` `LangGraph`
 
-### 🔗 Links
+### Links
 
 [GitHub](https://github.com/SagarKotai/propRadar)
 
@@ -210,22 +193,22 @@ const sagar = {
 
 <td width="50%">
 
-## 🏫 Campusyantra
+## Campusyantra
 
-### Multi-Tenant School ERP SaaS
+### Multi-tenant School ERP SaaS
 
 ```bash
 > Full institution management ecosystem.
 ```
 
-### ⚡ Features
+### Features
 
 - RBAC architecture
-- Payroll & taxation engine
+- Payroll and taxation engine
 - Academic workflow automation
 - Tenant-isolated infrastructure
 
-### 🛠 Stack
+### Stack
 
 `Next.js` `MongoDB`
 `Redux` `Node.js`
@@ -238,28 +221,44 @@ const sagar = {
 
 ---
 
-# 📊 GitHub Analytics
+# Architecture DNA
+
+```mermaid
+flowchart LR
+    A[Offline-first client] --> B[Local store]
+    B --> C[Sync engine]
+    C --> D[Edge API]
+    D --> E[Core services]
+    E --> F[Event bus]
+    F --> G[Analytics and AI layer]
+    C --> H[Conflict resolver]
+    H --> B
+```
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SagarKotai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SagarKotai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarKotai&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=2563EB"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarKotai&theme=tokyonight&hide_border=true&background=0B1220&stroke=3B82F6&ring=3B82F6&fire=2563EB"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarKotai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarKotai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=3B82F6&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-# 🏆 Achievement Unlocked
+# Achievement Unlocked
 
 <div align="center">
 
 ```diff
-+ WorldQuant Brain — Research Consultant
++ WorldQuant Brain - Research Consultant
 
 # Master Level
 # Top ~8% Globally
@@ -271,32 +270,32 @@ const sagar = {
 
 ---
 
-# 🧠 Currently Exploring
+# Currently Exploring
 
 ```yaml
-AI Agents:
+ai_agents:
   - LangGraph orchestration
   - Multi-agent reasoning
   - Tool-using autonomous systems
 
-Backend Systems:
+backend_systems:
   - Event-driven architectures
   - Distributed sync systems
   - Real-time communication
 
-Learning:
-  - Advanced AI Engineering
-  - Scalable SaaS Infrastructure
-  - System Design
+learning:
+  - Advanced AI engineering
+  - Scalable SaaS infrastructure
+  - System design
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Build+cool+things.;Ship+real+systems.;Stay+dangerous+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=620&lines=Build+cool+things.;Ship+real+systems.;Stay+dangerous." />
 
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:2563eb,100:0d1117&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e40af,100:0b1220&height=140&section=footer"/>
